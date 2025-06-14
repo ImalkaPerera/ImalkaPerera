@@ -1,74 +1,75 @@
-# 👋 Hey there, I'm [Your Name]!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate+@+IIT;Aspiring+Full-Stack+Developer;Lifelong+Learner+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
-
-Welcome to my GitHub profile! I'm **[Your Name]**, a Computer Science student at the **Informatics Institute of Technology (IIT), Sri Lanka**, affiliated with the **University of Westminster**. I'm deeply passionate about software engineering, web development, and problem solving. I'm always exploring new technologies and working hard to become a top developer.
-
----
-
-## 🚀 Tech Stack
-
-**Languages & Frameworks:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-**Web Development:**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 🧠 Currently Learning
-
-- ✅ Java Basics  
-- ✅ CSS Flexbox & Grid  
-- ✅ Object-Oriented Programming in Python  
-- ✅ GUI Development with Tkinter  
-- ✅ Advanced programming and ICT problems  
-- ✅ Web project for SDG 7 (*EnerFlow* team @ IIT)
-
----
-
-## 🎯 2025 Goals
-
-- 🎓 Become the **top student** in my Computer Science degree  
-- 🗣️ Improve **spoken English fluency** and communication skills  
-- 👨‍💻 Start **freelancing** in web & software development  
-- 🌐 Launch a **full-stack SaaS project**  
-- 🔥 Master **data structures and algorithms**  
-- 🤝 Contribute to **open-source projects**  
-- 🤖 Be active in clubs like **IEEE @ IIT**  
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Ashen 👋</h1>
+<h3 align="center">Computer Science Student | Future Software Engineer | Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+IIT+Sri+Lanka;Aspiring+Full-Stack+Developer;Lifelong+Learner+🚀;&center=true&width=500&height=30">
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🧑‍💻 About Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-here) *(add if you have it)*
-- 🌐 Portfolio Website: coming soon!
-- 🧠 Always open to collaborating on innovative tech projects
+- 🎓 Studying BSc (Hons) Computer Science at **IIT Sri Lanka** (University of Westminster)
+- 🧠 Currently learning **Java**, **Python OOP**, **Tkinter**, and **CSS Flexbox & Grid**
+- 💻 Building real-world projects like **EnerFlow** (SDG 7) with my university team
+- 🗣️ Improving my **English communication** and soft skills
+- 🏆 Aiming to become the **batch top** by September 2025
+- 📚 Always curious, always building, always leveling up 💪
 
 ---
 
-> *"The best way to predict the future is to invent it."* – Alan Kay
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode" />
+</p>
+
+---
+
+### 📘 Currently Working On
+
+- 🌐 **EnerFlow** — SDG 7 website (Template, Global CSS, NavBar, Home Page, Table Page)
+- 🧩 Improving problem-solving with **ICT-style programming exercises**
+- 🛠️ Building a personal **portfolio site** (coming soon!)
+- 🗣️ Daily English speaking & listening practice
+
+---
+
+### 🎯 2025 Goals
+
+- 🎓 Be the **top student** in my degree
+- 🗣️ Become **fluent in English**
+- 🌍 Start **freelancing** in web & software development
+- 🚀 Launch a **SaaS product**
+- 🔧 Contribute to **open source**
+- 💼 Join/lead tech clubs (IEEE ✅)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-site.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“The best way to predict the future is to invent it.” — Alan Kay</i></p>
