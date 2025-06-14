@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ashen 👋</h1>
+<h1 align="center">Hey, I'm Imalka Perera 👋</h1>
 
 <p align="center">
   💻 Computer Science Undergraduate @ <strong>IIT Sri Lanka</strong><br>
