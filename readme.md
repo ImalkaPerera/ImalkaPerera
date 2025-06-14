@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashen!
+# 👋 Hi, I'm Imalka Perera!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=CS+Undergrad+@+IIT+Sri+Lanka;Aspiring+Software+Engineer;Web+Dev+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
