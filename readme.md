@@ -1,75 +1,70 @@
-<h1 align="center">Hi, I'm Ashen 👋</h1>
-<h3 align="center">Computer Science Student | Future Software Engineer | Web Dev Enthusiast</h3>
+# 👋 Hi, I'm Ashen!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=CS+Undergrad+@+IIT+Sri+Lanka;Aspiring+Software+Engineer;Web+Dev+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+
+I'm a Computer Science student at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. I'm passionate about software engineering, web development, and building real-world projects that make a difference.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🧠 Currently Learning
+
+- Java fundamentals  
+- Python OOP & Tkinter (GUI development)  
+- CSS Flexbox & Grid  
+- Problem-solving for ICT-style challenges  
+- Frontend design for **EnerFlow** (SDG 7 project @ IIT)
+
+---
+
+## 🎯 2025 Goals
+
+- Be the **top-performing student** in my degree  
+- Improve **spoken English fluency**  
+- Start **freelancing** in web/software development  
+- Launch a **personal SaaS product**  
+- Master **data structures & algorithms**  
+- Contribute to **open source**  
+- Be active in tech clubs (✅ IEEE member @ IIT)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Undergrad+%40+IIT+Sri+Lanka;Aspiring+Full-Stack+Developer;Lifelong+Learner+🚀;&center=true&width=500&height=30">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 📫 Connect with Me
 
-- 🎓 Studying BSc (Hons) Computer Science at **IIT Sri Lanka** (University of Westminster)
-- 🧠 Currently learning **Java**, **Python OOP**, **Tkinter**, and **CSS Flexbox & Grid**
-- 💻 Building real-world projects like **EnerFlow** (SDG 7) with my university team
-- 🗣️ Improving my **English communication** and soft skills
-- 🏆 Aiming to become the **batch top** by September 2025
-- 📚 Always curious, always building, always leveling up 💪
+- 🌐 Portfolio: coming soon  
+- 💬 Let's collaborate on meaningful projects  
+- 🤝 Open to networking, learning, and sharing knowledge  
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode" />
-</p>
-
----
-
-### 📘 Currently Working On
-
-- 🌐 **EnerFlow** — SDG 7 website (Template, Global CSS, NavBar, Home Page, Table Page)
-- 🧩 Improving problem-solving with **ICT-style programming exercises**
-- 🛠️ Building a personal **portfolio site** (coming soon!)
-- 🗣️ Daily English speaking & listening practice
-
----
-
-### 🎯 2025 Goals
-
-- 🎓 Be the **top student** in my degree
-- 🗣️ Become **fluent in English**
-- 🌍 Start **freelancing** in web & software development
-- 🚀 Launch a **SaaS product**
-- 🔧 Contribute to **open source**
-- 💼 Join/lead tech clubs (IEEE ✅)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><i>“The best way to predict the future is to invent it.” — Alan Kay</i></p>
+> *"The best way to predict the future is to invent it."* – Alan Kay
