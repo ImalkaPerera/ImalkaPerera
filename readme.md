@@ -1,70 +1,80 @@
-# 👋 Hi, I'm Imalka Perera!
+<h1 align="center">Hey, I'm Ashen 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=CS+Undergrad+@+IIT+Sri+Lanka;Aspiring+Software+Engineer;Web+Dev+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+<p align="center">
+  💻 Computer Science Undergraduate @ <strong>IIT Sri Lanka</strong><br>
+  🎯 Future Full-Stack Developer | 🌐 Web & Software Enthusiast
+</p>
 
-I'm a Computer Science student at the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. I'm passionate about software engineering, web development, and building real-world projects that make a difference.
-
----
-
-## 🚀 Tech Stack
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-**Frontend:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=00BFFF&width=500&lines=Learning+Java+%7C+Python+%7C+React;Building+real+projects+%7C+Solving+Problems;Chasing+growth+every+day+%F0%9F%94%A5" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 About Me
 
-- Java fundamentals  
-- Python OOP & Tkinter (GUI development)  
-- CSS Flexbox & Grid  
-- Problem-solving for ICT-style challenges  
-- Frontend design for **EnerFlow** (SDG 7 project @ IIT)
+- 🎓 1st year CS student at **Informatics Institute of Technology**, affiliated with **University of Westminster**
+- 👨‍💻 Passionate about full-stack development & solving real-world problems
+- 💬 Focused on improving my **English speaking** and soft skills
+- 🏆 Aiming to become the **top student** in my batch (graduating in 2025)
+- ⚡ Currently working on the **EnerFlow** website project (SDG 7)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode&perline=8" />
+</p>
+
+---
+
+## 🚧 Current Focus
+
+- ✅ Java basics & OOP in Python  
+- ✅ GUI apps using **Tkinter**  
+- ✅ Flexbox, Grid & responsive layouts  
+- ✅ Building the **EnerFlow** web project with my team  
+- ✅ Practicing ICT-style programming challenges
 
 ---
 
 ## 🎯 2025 Goals
 
-- Be the **top-performing student** in my degree  
-- Improve **spoken English fluency**  
-- Start **freelancing** in web/software development  
-- Launch a **personal SaaS product**  
-- Master **data structures & algorithms**  
-- Contribute to **open source**  
-- Be active in tech clubs (✅ IEEE member @ IIT)
+- 🎓 Be the **top-performing CS student**  
+- 🗣️ Speak **fluent English** confidently  
+- 💼 Start **freelancing** and build real-world projects  
+- 🌍 Launch a personal **SaaS app**  
+- 👨‍💻 Contribute to open-source  
+- 🧠 Master data structures & algorithms  
+- 🔌 Stay active in **tech clubs** (IEEE ✅)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
-- 🌐 Portfolio: coming soon  
-- 💬 Let's collaborate on meaningful projects  
-- 🤝 Open to networking, learning, and sharing knowledge  
-
----
-
-> *"The best way to predict the future is to invent it."* – Alan Kay
+<p align="center"><i>"The future belongs to those who code it." – You.</i></p>
