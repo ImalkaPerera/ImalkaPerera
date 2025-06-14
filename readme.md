@@ -15,8 +15,7 @@
 
 - 🎓 1st year CS student at **Informatics Institute of Technology**, affiliated with **University of Westminster**
 - 👨‍💻 Passionate about full-stack development & solving real-world problems
-- 💬 Focused on improving my **English speaking** and soft skills
-- 🏆 Aiming to become the **top student** in my batch (graduating in 2025)
+- 💬 Constantly improving communication and soft skills
 - ⚡ Currently working on the **EnerFlow** website project (SDG 7)
 
 ---
@@ -24,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode,aws&perline=8" />
 </p>
 
 ---
@@ -41,13 +40,12 @@
 
 ## 🎯 2025 Goals
 
-- 🎓 Be the **top-performing CS student**  
-- 🗣️ Speak **fluent English** confidently  
 - 💼 Start **freelancing** and build real-world projects  
 - 🌍 Launch a personal **SaaS app**  
 - 👨‍💻 Contribute to open-source  
 - 🧠 Master data structures & algorithms  
-- 🔌 Stay active in **tech clubs** (IEEE ✅)
+- 🔌 Stay active in **tech clubs** (IEEE ✅)  
+- 🚀 Become a **master in full-stack development**
 
 ---
 
