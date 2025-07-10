@@ -1,85 +1,85 @@
-<h1 align="center">Hey, I'm Imalka Perera 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.iit.ac.lk/" target="_blank">
-    <img src="https://img.shields.io/badge/Computer_Science_Undergrad-IIT_Sri_Lanka-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMTJsNSA2IDUtNnYtNmw1IDYtNSA2aC0xMGwtNS02IDUtNnY2eiIvPjwvc3ZnPg==" alt="IIT Sri Lanka">
-  </a>
-  <br>
-  <b>Future Full-Stack Developer | Web & Software Enthusiast</b>
+<h1>Hey, I'm Imalka Perera 👋</h1>
+
+<p>
+<b>Computer Science Undergraduate @ IIT Sri Lanka</b>
+<br />
+<i>Future Full-Stack Developer | Web & Software Enthusiast</i>
 </p>
 
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D30A9DE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2BScalable%2BWeb%2BApplications%3BTransforming%2BIdeas%2Binto%2BDigital%2BSolutions%3BAlways%2BLearning%2B%257C%2BAlways%2BGrowing" alt="Typing SVG" />
+
+</div>
+
+<!-- Profile View Counter -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Learning+Java+%7C+Python+%7C+React;Building+real+projects+%7C+Solving+Problems;Chasing+growth+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26color%3D30A9DE%26style%3Dfor-the-badge" alt="Profile views" />
 </p>
 
----
+<!-- Bento Grid Layout -->
 
-<table width="100%">
-  <tr>
-    <td width="65%">
-      <h2>About Me 🧠</h2>
-      <ul>
-        <li>🎓 1st year CS student at <b>Informatics Institute of Technology</b>, affiliated with <b>University of Westminster</b>.</li>
-        <li>👨‍💻 Passionate about full-stack development & solving real-world problems.</li>
-        <li>💬 Constantly improving my communication and teamwork abilities.</li>
-        <li>⚡ Currently working on the <b>EnerFlow</b> website project (SDG 7).</li>
-      </ul>
-      <h2>2025 Goals 🎯</h2>
-      <ul>
-        <li>💼 Start <b>freelancing</b> and build a strong portfolio.</li>
-        <li>🌍 Launch a personal <b>SaaS application</b>.</li>
-        <li>👨‍💻 Contribute meaningfully to open-source projects.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imalka's GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
+<table width="100%" border="0" cellspacing="10" cellpadding="10">
+<!-- Row 1: About Me & GitHub Stats -->
+<tr>
+<!-- About Me Card -->
+<td width="60%" valign="top">
+<h3>🚀 About Me</h3>
+<p>
+I'm a first-year Computer Science student at the <b>Informatics Institute of Technology (IIT)</b>, affiliated with the <b>University of Westminster</b>. My passion lies in full-stack development and using code to solve real-world challenges. I'm currently focused on building robust applications and continuously improving my skills.
+<br /><br />
+⚡ Currently contributing to the <b>EnerFlow</b> project, focusing on sustainable energy solutions (SDG 7).
+</p>
+</td>
+<!-- GitHub Stats Card -->
+<td width="40%" valign="top">
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26bg_color%3D1A1B27" alt="Imalka's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1A1B27" alt="Top Languages" />
+</div>
+</td>
+</tr>
+
+<!-- Row 2: Tech Stack & Goals -->
+
+<tr>
+<!-- Tech Stack Card -->
+<td width="60%" valign="top">
+<h3>🛠️ My Tech Stack</h3>
+<p align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,js,react,tailwind,html,css,git,github,figma,vscode,aws,nodejs%26perline%3D6" alt="Tech Stack" />
+</p>
+</td>
+<!-- 2025 Goals Card -->
+<td width="40%" valign="top">
+<h3>🎯 2025 Mission</h3>
+<ul>
+<li><b>Freelance:</b> Build impactful solutions for clients.</li>
+<li><b>SaaS Launch:</b> Take a personal project from idea to market.</li>
+<li><b>Open Source:</b> Become an active contributor to a major project.</li>
+</ul>
+</td>
+</tr>
 </table>
 
----
-
-## My Tech Stack 🛠️
-
+📫 Let's Connect!
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode,aws&perline=6" alt="Tech Stack" />
+<i>I'm always open to new opportunities and collaborations. Feel free to reach out!</i>
+<br/><br/>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://your-portfolio.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-30A9DE%3Fstyle%3Dfor-the-badge%26logo%3Doctopusdeploy%26logoColor%3Dwhite" alt="Portfolio"/>
+</a>
 </p>
 
----
-
-## Current Focus 🚧
-
-<p align="center">
-  <i>Right now, I'm diving deep into these technologies to sharpen my skills.</i>
-  <br><br>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-</p>
-
----
-
-## Let's Connect 🌐
-
-<p align="center">
-  <i>I'm always open to connecting with like-minded people. Let's talk!</i>
-  <br><br>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=octopusdeploy&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center"><i>"The future belongs to those who code it."</i></p>
+<div align="center">
+<p><i>"The best way to predict the future is to create it."</i></p>
+</div>
