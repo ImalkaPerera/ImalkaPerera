@@ -30,11 +30,8 @@
 
 ## 🚧 Current Focus
 
-- ✅ Java basics & OOP in Python  
-- ✅ GUI apps using **Tkinter**  
-- ✅ Flexbox, Grid & responsive layouts  
-- ✅ Building the **EnerFlow** web project with my team  
-- ✅ Practicing ICT-style programming challenges
+- ✅ Java & Javascript
+- ✅ React
 
 ---
 
@@ -43,9 +40,6 @@
 - 💼 Start **freelancing** and build real-world projects  
 - 🌍 Launch a personal **SaaS app**  
 - 👨‍💻 Contribute to open-source  
-- 🧠 Master data structures & algorithms  
-- 🔌 Stay active in **tech clubs** (IEEE ✅)  
-- 🚀 Become a **master in full-stack development**
 
 ---
 
