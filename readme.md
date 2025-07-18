@@ -22,7 +22,6 @@
         <li>🎓 1st year CS student at <b>Informatics Institute of Technology</b>, affiliated with <b>University of Westminster</b>.</li>
         <li>👨‍💻 Passionate about full-stack development & solving real-world problems.</li>
         <li>💬 Constantly improving my communication and teamwork abilities.</li>
-        <li>⚡ Currently working on the <b>EnerFlow</b> website project (SDG 7).</li>
       </ul>
       <h2>2025 Goals 🎯</h2>
       <ul>
