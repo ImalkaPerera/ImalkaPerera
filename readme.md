@@ -71,30 +71,7 @@ const imalka = {
 
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
 
-</td>
-<td width="50%">
-
-### 📱 [Project Beta](https://github.com/your-username/project-beta)
-**AI-Powered Task Manager**
-- Smart Task Prioritization
-- Natural Language Processing
-- Cross-platform Compatibility
-- Real-time Collaboration
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
