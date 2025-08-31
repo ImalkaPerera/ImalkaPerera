@@ -95,7 +95,7 @@ const imalka = {
 
 <div align="center">
   <h3>💫 "Code is poetry written in logic" 💫</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Always+open+to+interesting+conversations!+💬" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+open+to+interesting+conversations!" alt="Footer Animation" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
