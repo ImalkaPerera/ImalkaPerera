@@ -42,21 +42,23 @@
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" alt="Gmail" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
   </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40"/>
+  <a href="https://YOUR_PORTFOLIO" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="40" height="40" alt="Portfolio" />
   </a>
 </p>
+
 ---
 
 <p align="center">
