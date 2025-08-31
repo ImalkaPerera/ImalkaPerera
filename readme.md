@@ -1,12 +1,13 @@
 # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Imalka%20Perera&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18)</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code;Turning+Ideas+into+Reality;Always+Learning+Always+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Reality;🔥+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
 </div>
-<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -65,37 +66,10 @@ const imalka = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 2025 Goals & Milestones
 
-<div align="center">
 
-| 🎯 Goal | 📊 Progress | 🔥 Status |
-|---------|-------------|-----------|
-| **Launch SaaS Product** | `████████░░` 80% | 🚀 In Progress |
-| **Master Full-Stack** | `██████░░░░` 60% | 📚 Learning |
-| **Open Source Contributions** | `███░░░░░░░` 30% | 🌱 Getting Started |
-| **Build Portfolio** | `█████████░` 90% | ✨ Almost Done |
-| **Start Freelancing** | `████░░░░░░` 40% | 💼 Preparing |
 
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Project Alpha](https://github.com/your-username/project-alpha)
-**Full-Stack E-commerce Platform**
-- React.js + Node.js + MongoDB
-- Payment Integration with Stripe
-- Real-time Order Tracking
-- Admin Dashboard
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
