@@ -1,85 +1,187 @@
-<h1 align="center">Hey, I'm Imalka Perera 👋</h1>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Imalka%20Perera&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18)</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Turning+Ideas+into+Reality;🔥+Always+Learning%2C+Always+Growing" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+const imalka = {
+    name: "Imalka Perera",
+    title: "Full-Stack Developer",
+    location: "Sri Lanka 🇱🇰",
+    education: "Computer Science @ IIT Sri Lanka",
+    university: "University of Westminster",
+    
+    currentlyLearning: ["Java", "React.js", "Node.js"],
+    interests: ["Web Development", "AI/ML", "Open Source"],
+    
+    funFacts: {
+        coffeeConsumedDaily: "∞",
+        favoriteEditor: "VS Code",
+        currentGoal: "Build amazing SaaS products"
+    },
+    
+    askMeAbout: [
+        "Web Development", "Programming", 
+        "Tech Trends", "Career Advice"
+    ]
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Technologies & Tools
+
+<div align="center">
+
+### 🔥 Core Technologies
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark" />
+
+### ⚡ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,jquery&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,aws,docker&theme=dark" />
+
+### 🎯 Currently Learning
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 2025 Goals & Milestones
+
+<div align="center">
+
+| 🎯 Goal | 📊 Progress | 🔥 Status |
+|---------|-------------|-----------|
+| **Launch SaaS Product** | `████████░░` 80% | 🚀 In Progress |
+| **Master Full-Stack** | `██████░░░░` 60% | 📚 Learning |
+| **Open Source Contributions** | `███░░░░░░░` 30% | 🌱 Getting Started |
+| **Build Portfolio** | `█████████░` 90% | ✨ Almost Done |
+| **Start Freelancing** | `████░░░░░░` 40% | 💼 Preparing |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [Project Alpha](https://github.com/your-username/project-alpha)
+**Full-Stack E-commerce Platform**
+- React.js + Node.js + MongoDB
+- Payment Integration with Stripe
+- Real-time Order Tracking
+- Admin Dashboard
 
 <p align="center">
-  <a href="https://www.iit.ac.lk/" target="_blank">
-    <img src="https://img.shields.io/badge/Computer_Science_Undergrad-IIT_Sri_Lanka-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMTJsNSA2IDUtNnYtNmw1IDYtNSA2aC0xMGwtNS02IDUtNnY2eiIvPjwvc3ZnPg==" alt="IIT Sri Lanka">
-  </a>
-  <br>
-  <b>Future Full-Stack Developer | Web & Software Enthusiast</b>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
+
+</td>
+<td width="50%">
+
+### 📱 [Project Beta](https://github.com/your-username/project-beta)
+**AI-Powered Task Manager**
+- Smart Task Prioritization
+- Natural Language Processing
+- Cross-platform Compatibility
+- Real-time Collaboration
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Learning+Java+%7C+Python+%7C+React;Building+real+projects+%7C+Solving+Problems;Chasing+growth+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
----
-
-<table width="100%">
-  <tr>
-    <td width="65%">
-      <h2>About Me 🧠</h2>
-      <ul>
-        <li>🎓 1st year CS student at <b>Informatics Institute of Technology</b>, affiliated with <b>University of Westminster</b>.</li>
-        <li>👨‍💻 Passionate about full-stack development & solving real-world problems.</li>
-        <li>💬 Constantly improving my communication and teamwork abilities.</li>
-      </ul>
-      <h2>2025 Goals 🎯</h2>
-      <ul>
-        <li>💼 Start <b>freelancing</b> and build a strong portfolio.</li>
-        <li>🌍 Launch a personal <b>SaaS application</b>.</li>
-        <li>👨‍💻 Contribute meaningfully to open-source projects.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imalka's GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## My Tech Stack 🛠️
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect & Collaborate
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode,aws&perline=6" alt="Tech Stack" />
-</p>
+<div align="center">
+  
+### 🌐 Find me around the web:
 
----
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail" />
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722&color=FF5722" alt="Portfolio" />
+</a>
+<a href="https://twitter.com/your-twitter" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter" />
+</a>
 
-## Current Focus 🚧
+### 💬 Ask me about:
+**Web Development • Full-Stack • React • Java • Career Advice • Tech Trends**
 
-<p align="center">
-  <i>Right now, I'm diving deep into these technologies to sharpen my skills.</i>
-  <br><br>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-</p>
+### ⚡ Fun fact:
+*I debug with console.log() and I'm not ashamed of it! 😄*
 
----
+</div>
 
-## Let's Connect 🌐
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <i>I'm always open to connecting with like-minded people. Let's talk!</i>
-  <br><br>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=octopusdeploy&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center"><i>"The future belongs to those who code it."</i></p>
-(more good github readme)
+<div align="center">
+  <h3>💫 "Code is poetry written in logic" 💫</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Always+open+to+interesting+conversations!+💬" alt="Footer Animation" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
