@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h1 align="center">✨ Imalka Perera ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+@+IIT+Sri+Lanka;Future+Full+Stack+Developer;Open+Source+Contributor;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+@+IIT+Sri+Lanka;Future+Full+Stack+Developer;Open+Source+Contributor;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
