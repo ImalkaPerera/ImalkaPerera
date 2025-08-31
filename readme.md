@@ -1,93 +1,85 @@
-<!-- HERO -->
+<h1 align="center">Hey, I'm Imalka Perera 👋</h1>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated gradient banner" />
+  <a href="https://www.iit.ac.lk/" target="_blank">
+    <img src="https://img.shields.io/badge/Computer_Science_Undergrad-IIT_Sri_Lanka-00BFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMTJsNSA2IDUtNnYtNmw1IDYtNSA2aC0xMGwtNS02IDUtNnY2eiIvPjwvc3ZnPg==" alt="IIT Sri Lanka">
+  </a>
+  <br>
+  <b>Future Full-Stack Developer | Web & Software Enthusiast</b>
 </p>
 
-<h1 align="center">Hi 👋, I'm Hasal Dharmagunawardana</h1>
-<h3 align="center">Frontend Developer from Sri Lanka</h3>
-
-<!-- QUICK INTRO -->
 <p align="center">
-  I craft fast, delightful interfaces and animations. Currently exploring <b>React Native</b> and pushing UI polish with <b>GSAP</b>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Learning+Java+%7C+Python+%7C+React;Building+real+projects+%7C+Solving+Problems;Chasing+growth+every+day+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
-
-<!-- SIDE ILLUSTRATION -->
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding animation" width="360" />
-
-### 🚀 What I’m up to
-- 🌱 Learning **React Native**
-- 💬 Ask me about **GSAP animations**
-- 📫 Reach me: **hasaldharmagunawardana@gmail.com**
-- ⚡ Fun: **I don’t ship “as expected”; I ship “better than expected.”**
 
 ---
 
-## 🧰 Tech & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,reactnative,gsap,flutter,svelte,java,python,php,git,github,linux,figma,ps,ai,unity,blender&perline=10" alt="Tech stack icons" />
-</p>
-
-> Tip: Keep your icons curated—show what you actually use today. Too many logos = noise.
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <h2>About Me 🧠</h2>
+      <ul>
+        <li>🎓 1st year CS student at <b>Informatics Institute of Technology</b>, affiliated with <b>University of Westminster</b>.</li>
+        <li>👨‍💻 Passionate about full-stack development & solving real-world problems.</li>
+        <li>💬 Constantly improving my communication and teamwork abilities.</li>
+      </ul>
+      <h2>2025 Goals 🎯</h2>
+      <ul>
+        <li>💼 Start <b>freelancing</b> and build a strong portfolio.</li>
+        <li>🌍 Launch a personal <b>SaaS application</b>.</li>
+        <li>👨‍💻 Contribute meaningfully to open-source projects.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Imalka's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 Connect
-<p align="left">
-  <!-- Use stable SimpleIcons CDN; replace placeholders with your actual handles -->
-  <a href="https://dev.to/hesxo" title="Dev.to">
-    <img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="30" height="30" alt="Dev.to"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/YOUR-FACEBOOK" title="Facebook">
-    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="30" height="30" alt="Facebook"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/hes.xo_" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@hesxo" title="YouTube">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:hasaldharmagunawardana@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail"/>
+## My Tech Stack 🛠️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,git,github,figma,vscode,aws&perline=6" alt="Tech Stack" />
+</p>
+
+---
+
+## Current Focus 🚧
+
+<p align="center">
+  <i>Right now, I'm diving deep into these technologies to sharpen my skills.</i>
+  <br><br>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Overview
-<p align="left">
-  <!-- Replace hesxo if your username is different -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hesxo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesxo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=hesxo&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
+## Let's Connect 🌐
 
----
-
-## 📝 Latest Posts
-<!-- Auto-populated by blog-post-workflow (optional). Connect your RSS to make this work. -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🔮 Featured Work (Pins)
-<!-- Replace REPO names with your top projects -->
-<p align="left">
-  <a href="https://github.com/hesxo/REPO-ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hesxo&repo=REPO-ONE&theme=tokyonight&hide_border=true" alt="Pinned repo 1"/>
+<p align="center">
+  <i>I'm always open to connecting with like-minded people. Let's talk!</i>
+  <br><br>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/hesxo/REPO-TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hesxo&repo=REPO-TWO&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=octopusdeploy&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
----
-
-### 🧩 Micro-Badges (for quick context)
-<code>React</code> <code>React Native</code> <code>GSAP</code> <code>Animations</code> <code>UI/UX minded</code>
-
+<p align="center"><i>"The future belongs to those who code it."</i></p>
+(more good github readme)
