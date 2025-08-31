@@ -1,68 +1,93 @@
-<!-- Banner -->
-<h1 align="center">✨ Imalka Perera ✨</h1>
+<!-- HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=CS+Undergrad+@+IIT+Sri+Lanka;Future+Full+Stack+Developer;Open+Source+Contributor;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated gradient banner" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Hasal Dharmagunawardana</h1>
+<h3 align="center">Frontend Developer from Sri Lanka</h3>
+
+<!-- QUICK INTRO -->
+<p align="center">
+  I craft fast, delightful interfaces and animations. Currently exploring <b>React Native</b> and pushing UI polish with <b>GSAP</b>.
+</p>
+
+<!-- SIDE ILLUSTRATION -->
+<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding animation" width="360" />
+
+### 🚀 What I’m up to
+- 🌱 Learning **React Native**
+- 💬 Ask me about **GSAP animations**
+- 📫 Reach me: **hasaldharmagunawardana@gmail.com**
+- ⚡ Fun: **I don’t ship “as expected”; I ship “better than expected.”**
 
 ---
 
-## 🚀 About Me
-💡 CS Undergrad at **IIT Sri Lanka** (affiliated with **University of Westminster**)  
-🌍 Passionate about **Web, Cloud, and SaaS**  
-🔥 Currently mastering **Java, React, and AWS**  
-🤝 Open to **freelancing & collaborations**  
-🎯 Dream: Build impactful **SaaS products** & grow as a **Full-Stack Engineer**  
+## 🧰 Tech & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,reactnative,gsap,flutter,svelte,java,python,php,git,github,linux,figma,ps,ai,unity,blender&perline=10" alt="Tech stack icons" />
+</p>
+
+> Tip: Keep your icons curated—show what you actually use today. Too many logos = noise.
 
 ---
 
-## 🛠 Tech Playground
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,tailwind,html,css,git,github,figma,aws,vscode,docker&perline=6" />
-</p>
-
----
-
-## 📊 My Dev Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C9FF&icon_color=00C9FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C9FF" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00C9FF&fire=FF007F&currStreakLabel=00C9FF" height="180"/>
-</p>
-
----
-
-## 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&column=6" />
-  <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" alt="Gmail" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="40" height="40" alt="Portfolio" />
+## 🔗 Connect
+<p align="left">
+  <!-- Use stable SimpleIcons CDN; replace placeholders with your actual handles -->
+  <a href="https://dev.to/hesxo" title="Dev.to">
+    <img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="30" height="30" alt="Dev.to"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/YOUR-FACEBOOK" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="30" height="30" alt="Facebook"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/hes.xo_" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@hesxo" title="YouTube">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:hasaldharmagunawardana@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C9FF" alt="Profile Views"/>
+## 📈 GitHub Overview
+<p align="left">
+  <!-- Replace hesxo if your username is different -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hesxo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesxo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=hesxo&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
-<p align="center"><i>“Code. Create. Innovate. Repeat.”</i></p>
+---
+
+## 📝 Latest Posts
+<!-- Auto-populated by blog-post-workflow (optional). Connect your RSS to make this work. -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🔮 Featured Work (Pins)
+<!-- Replace REPO names with your top projects -->
+<p align="left">
+  <a href="https://github.com/hesxo/REPO-ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hesxo&repo=REPO-ONE&theme=tokyonight&hide_border=true" alt="Pinned repo 1"/>
+  </a>
+  <a href="https://github.com/hesxo/REPO-TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hesxo&repo=REPO-TWO&theme=tokyonight&hide_border=true" alt="Pinned repo 2"/>
+  </a>
+</p>
+
+---
+
+### 🧩 Micro-Badges (for quick context)
+<code>React</code> <code>React Native</code> <code>GSAP</code> <code>Animations</code> <code>UI/UX minded</code>
+
