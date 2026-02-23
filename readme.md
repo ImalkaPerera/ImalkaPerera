@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```typescript
-const imalka = {
+const Senesh = {
     name: "Senesh Perera",
     title: "Full-Stack Developer",
     location: "Sri Lanka 🇱🇰",
