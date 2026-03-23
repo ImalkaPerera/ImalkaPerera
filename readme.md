@@ -1,7 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Senesh%20Perera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DevOps%20%7C%20Cloud%20%26%20AI%20Systems&descAlignY=55&descSize=18 "/>
-</div>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me
 
