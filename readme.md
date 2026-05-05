@@ -30,3 +30,4 @@ const senesh = {
   currentFocus: "Building scalable full-stack & cloud systems"
 };
 ```
+![](https://komarev.com/ghpvc/?username=ImalkaPerera)
